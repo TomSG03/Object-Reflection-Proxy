@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TomSG03/Object-Reflection-Proxy.git.git"
+    "url": "git+https://github.com/TomSG03/Object-Reflection-Proxy.git"
   },
   "keywords": [
     "game"
@@ -25,9 +25,9 @@
   "author": "Tomilov Sergey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TomSG03/Object-Reflection-Proxy.git/issues"
+    "url": "https://github.com/TomSG03/Object-Reflection-Proxy/issues"
   },
-  "homepage": "https://github.com/TomSG03/Object-Reflection-Proxy.git#readme",
+  "homepage": "https://github.com/TomSG03/Object-Reflection-Proxy#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.4",
     "@babel/core": "^7.15.5",

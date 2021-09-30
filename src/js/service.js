@@ -16,5 +16,5 @@ export default function orderByProps(obj, arr) {
 
   propFree.sort((a, b) => (a.key > b.key ? 1 : -1));
 
-  return propDefine.concat(propFree);
+  return [...propDefine, ...propFree];
 }

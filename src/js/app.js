@@ -1,8 +1,8 @@
-// import Zombie from './Zombie';
-// import orderByProps from './service';
+import Zombie from './Zombie';
+import orderByProps from './service';
 
-// const obj = new Zombie('Leon');
+const obj = new Zombie('Viktor');
 
-// const props = orderByProps(obj, ['name', 'level', 'type']);
+const props = orderByProps(obj, ['name', 'level', 'type']);
 
-// console.log(props);
+console.log(props);
