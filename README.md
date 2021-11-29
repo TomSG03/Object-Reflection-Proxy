@@ -3,7 +3,5 @@
 - [x] for ... in
 - [x] [Destructuring](https://github.com/TomSG03/Destructuring.git)
 
-
-[![Build status](https://ci.appveyor.com/api/projects/status/nfrf3esejtcntkit?svg=true)](https://ci.appveyor.com/project/TomSG03/object-reflection-proxy)
 ---
 [Спискок задач](https://github.com/TomSG03/ajs-homeworks-list)
